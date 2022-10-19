@@ -17,6 +17,12 @@
       "day": "Monday/ 3:00pm",
       "reminder": true,
       "id": 3
+    },
+    {
+      "text": "first task",
+      "day": "friday/ 3pm",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
